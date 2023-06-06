@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cyan October
+- 👋 Hi, I’m Anxiemon
 - 👀 I’m interested in learning how to write good code
 - 🌱 I’m currently learning how to be flexible with tools in my PC
 - 💞️ I’m looking to collaborate on writing simple and objective code
